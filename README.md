@@ -1,3 +1,5 @@
+<img src="logo.png" alt="Logo" width="800" height="600">
+
 # StatixOCaml
 
 Welcome to StatixOCaml, a comprehensive statistical library designed specifically for the OCaml programming language. Our goal is to provide an extensive range of statistical functions and tools that leverage OCaml's expressive syntax and powerful features to make statistical analysis more intuitive and efficient.
