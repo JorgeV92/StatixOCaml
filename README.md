@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Logo" width="800" height="600">
+
 
 # StatixOCaml
 
